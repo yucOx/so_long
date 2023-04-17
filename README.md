@@ -13,5 +13,4 @@
 - Oyunda karakterinizi, düşmanları ve nesneleri kontrol etme yeteneği.
 - Oyunun tamamlanma şartlarını ve kazanma/kaybetme durumlarını belirleyen kurallar.
 
-## Nasıl Oynanır
 
